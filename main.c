@@ -57,7 +57,7 @@ Enjoy!
 #include <Library/MemoryAllocationLib.h>
 #include <Library/BaseLib.h>
 #include <Library/BaseMemoryLib.h>
-#include "Game.h"
+#include "game.h"
 
 
 /**
