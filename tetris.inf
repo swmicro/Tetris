@@ -28,12 +28,12 @@
 
 [Sources]
   main.c
-  Piece.h
-  Piece.c
-  Board.h
-  Board.c
-  Game.h
-  Game.c
+  piece.h
+  piece.c
+  board.h
+  board.c
+  game.h
+  game.c
 
 [Packages]
   MdePkg/MdePkg.dec
