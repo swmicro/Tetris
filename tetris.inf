@@ -28,8 +28,8 @@
 
 [Sources]
   main.c
-  piece.h
-  piece.c
+  peice.h
+  peice.c
   board.h
   board.c
   game.h
